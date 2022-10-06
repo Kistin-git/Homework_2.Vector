@@ -2,6 +2,7 @@ import java.util.Scanner;
 public class Start {
 
     public static void main (String[] args) {
+        //some micro change to create a pull request
 
         Scanner scanner = new Scanner(System.in);
         System.out.println("Введите координаты первого вектора:");
